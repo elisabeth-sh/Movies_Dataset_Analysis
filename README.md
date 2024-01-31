@@ -1,0 +1,10 @@
+The dataset contains data on movies released between 1980 and 2020. To analyse this information, 10 research questions(hypotheses) have been put forward. All of them were answered with the help of pandas, matplotlib, seaborn and plotly. Below you can find a full list of illustrations used in the Notebook.
+![output_21_0](https://github.com/elisabeth-sh/Movies_Dataset_Analysis/assets/141364650/83134200-e92d-4c17-9920-2a7de8e0c1cb)
+![output_19_1](https://github.com/elisabeth-sh/Movies_Dataset_Analysis/assets/141364650/b754664d-f550-418d-a618-66a4eff2c252)
+![output_46_0](https://github.com/elisabeth-sh/Movies_Dataset_Analysis/assets/141364650/3c0d4990-c87f-416b-9c58-de55aa00551e)
+![output_43_0](https://github.com/elisabeth-sh/Movies_Dataset_Analysis/assets/141364650/2b497edc-19bd-4990-9093-7da1d20f496d)
+![output_41_1](https://github.com/elisabeth-sh/Movies_Dataset_Analysis/assets/141364650/81552101-1885-4fef-871d-7d352561a158)
+![output_39_0](https://github.com/elisabeth-sh/Movies_Dataset_Analysis/assets/141364650/7131a743-6843-4488-a5bc-7a29856a93e2)
+![output_34_0](https://github.com/elisabeth-sh/Movies_Dataset_Analysis/assets/141364650/43e3d0be-0a2f-471f-98d2-2a68234a4a7a)
+![output_32_0](https://github.com/elisabeth-sh/Movies_Dataset_Analysis/assets/141364650/716c581a-6bc2-4ffa-9844-4bdeb328cdc2)
+![output_28_1](https://github.com/elisabeth-sh/Movies_Dataset_Analysis/assets/141364650/4e13d890-4d99-4ea9-be71-62558111b0a0)
